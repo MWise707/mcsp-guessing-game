@@ -56,7 +56,7 @@ Get used to reading and understanding error messages, it is a skill! First read 
 Secondly, you should open Chrome’s console when you are running your program so you can read any error messages. Because we are using Chrome to run our program, we can use a special keyword called ‘debugger’ to pause our code while it is running and see what all of our variables look like. Just create a new line in your code where you want it to pause and type in “debugger”.
 
 -------------------------------------------------
-
+✅
 ### Feature 1: Guess once.
 Using alert and prompt, write a program that asks the user to guess a number and then tells them if they were correct, or if they should have guessed higher or lower.
 
@@ -79,7 +79,7 @@ Or
 (String) “Correct!” , if Guess is equal to the secret number
 
 -------------------------------------------------
-
+✅
 ### Feature 2: Guess again!
 If the guess is higher or lower, ask the user to guess again. Your program should keep doing this until the guess is the same as the secret number. 
 Check Your Work! Test out your code, make sure everything is working correctly. Also make sure you don’t see any errors in console.
